@@ -1,0 +1,13 @@
+links:
+https://github.com/FrankWalczak/dio-desafio-github-primeiro-repositorio
+
+https://web.dio.me/lab/criando-seu-primeiro-repositorio-no-github-para-compartilhar-seu-progresso/learning/e714fb1c-4990-4c47-99a5-d97703e40b4d
+
+Sintaxe Básica do Markdown
+Nesse artigo você conhecerá os elementos que formam a base da linguagem Markdown.
+https://markdown.net.br/sintaxe-basica/
+
+
+comandos no git bash
+git add -a   ##adiciona as modificações da pasta ao repositorio github
+git add .    ##adiciona as modificações da pasta ao repositorio github
